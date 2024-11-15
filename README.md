@@ -1,1 +1,1 @@
-# jsLearning
+# This is just some random functions for me to practice javascript
